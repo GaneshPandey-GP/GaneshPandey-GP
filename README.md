@@ -5,4 +5,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{GaneshPandey-GP}/count.svg)
 
 
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaneshPandey-GP&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaneshPandey-GP&theme=highcontrast)](https://github.com/T3KRAJ/github-readme-streak-stats)
