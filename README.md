@@ -16,9 +16,9 @@
  
  ### Hi there, I'm [Ganesh Pandey][website] 👋
 
-
-- 🥅 2021 Goals: Give impact to society
-- ⚡ Fun fact: I love t, reading books, and drawing
+##
+## - 🥅 2021 Goals: Give impact to society
+## - ⚡ Fun fact: I love t, reading books, and drawing
 
 
 ### Profile Views
@@ -56,13 +56,7 @@
 <br />
 <br />
 
----
 
-### 📚 Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
-
----
 
 <img align="left" alt="ganeshpandey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GaneshPandey-GP&show_icons=true&hide_border=true" />
 
