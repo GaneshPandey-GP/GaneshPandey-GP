@@ -2,8 +2,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="30px">
 
-### Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{GaneshPandey-GP}/count.svg)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPandey&theme=highcontrast" />
@@ -18,19 +16,20 @@
  
  ### Hi there, I'm [Ganesh Pandey][website] 👋
 
-## I'm a Man, Friend, and Researcher!
-- 🔭 I’m currently working on a [personal project][website]!
-- 🥅 2021 Goals: Give impact to society
-- ⚡ Fun fact: I love t, reading books, and drawing
+
+#- 🥅 2021 Goals: Give impact to society
+#- ⚡ Fun fact: I love t, reading books, and drawing
+
+
+### Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{GaneshPandey-GP}/count.svg)
+
 
 ### Connect with me:
 
-[<img align="left" alt="ganeshpandey.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ganeshpandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ganeshpandey | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="ganeshpandey | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="ganeshpandey | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt="ganeshpandey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ganeshpandey | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][hackerrank]
 
 <br />
 
@@ -60,10 +59,6 @@
 
 <img align="left" alt="ganeshpandey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GaneshPandey-GP&show_icons=true&hide_border=true" />
 
-[website]: http://audhiaprilliant.github.io/
-[medium]: https://medium.com/@audhiaprilliant/
-[kaggle]: https://www.kaggle.com/audhiaprilliant
-[codechef]: http://codechef.com/users/audhi
-[twitter]: https://twitter.com/audhiaprilliant
-[facebook]: https://www.facebook.com/audhi.aprilliant/
-[linkedin]: https://www.linkedin.com/in/audhiaprilliant/
+[website]: https://ganeshpandey-gp.netlify.app/
+[hackerrank]: https://www.hackerrank.com/ganeshpandey897
+[linkedin]: https://www.linkedin.com/in/ganesh-pandey-1426b4171/
