@@ -18,7 +18,7 @@
 
 ##
 ## - 🥅 2021 Goals: Give impact to society
-## - ⚡ Fun fact: I love t, reading books, and drawing
+## - ⚡ Fun fact: I love traveling, reading books, and video games
 
 
 ### Profile Views
