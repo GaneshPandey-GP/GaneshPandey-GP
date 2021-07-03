@@ -56,9 +56,9 @@
 <br />
 <br />
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T3KRAJ&theme=highcontrast)](https://github.com/T3KRAJ/github-readme-streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaneshPandey-GP&theme=highcontrast)](https://github.com/GaneshPandey-GP/github-readme-streak-stats)
 
-<img align="left" alt="ganeshpandey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GaneshPandey-GP&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="ganeshpandey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GaneshPandey-GP&show_icons=true&hide_border=true" /> -->
 
 [website]: https://ganeshpandey-gp.netlify.app/
 [hackerrank]: https://www.hackerrank.com/ganeshpandey897
