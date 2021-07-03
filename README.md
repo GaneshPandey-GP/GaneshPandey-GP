@@ -33,6 +33,8 @@
 
 <br />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshPandey-GP&theme=highcontrast&count_private=true)](https://github.com/GaneshPandey-GP/github-readme-stats)
 ### Languages and Tools:
 
 
