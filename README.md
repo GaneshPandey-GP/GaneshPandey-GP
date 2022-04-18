@@ -17,7 +17,7 @@
  ### Hi there, I'm [Ganesh Pandey][website] 👋
 
 ##
-## - 🥅 2021 Goals: Give impact to society
+<!-- ## - 🥅 2021 Goals: Give impact to society -->
 ## - ⚡ Fun fact: I love traveling, reading books, and video games
 
 
